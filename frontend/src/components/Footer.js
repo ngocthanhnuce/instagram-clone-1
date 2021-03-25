@@ -17,6 +17,7 @@ const Footer = () => {
         <Col>Điều khoản</Col>
         <Col className={styles.footer}>Tài khoản liên quan nhất</Col>
         <Col>Hashtag</Col>
+        <Col>Hashtag</Col>
         <Col className={styles.footer}>Vị trí</Col>
       </Row>
       <Row justify="center" style={{paddingTop: "15px"}}>
