@@ -1,0 +1,120 @@
+.card_login {
+  width: 350px;
+  margin-top: 60px;
+}
+.card_login h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.btn_submit {
+  width: 100%;
+  border-radius: 5px;
+}
+.btn_submit_login_face {
+  width: 100%;
+  border-radius: 5px;
+  margin: 15px 0 25px 0;
+}
+.border {
+  text-decoration: inherit;
+}
+.face {
+  padding-top: 15px;
+  cursor: pointer;
+}
+.face_text {
+  color: #0095f6;
+}
+.signup {
+  margin-top: 10px;
+  width: 350px;
+}
+.signup p {
+  text-align: center;
+}
+.image {
+  padding: 100px 20px 0 0;
+}
+.policy {
+  padding: 0 12px;
+}
+.avatar_image {
+  padding-right: 100px;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.edit {
+  padding: 0 30px;
+  margin-top: 5px;
+}
+.btn_edit {
+  border-radius: 5px;
+}
+.profile {
+  padding-top: 15px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+.username {
+  font-size: 25px;
+}
+.follower {
+  margin: 0 20px;
+}
+.follow {
+  font-size: 14px;
+}
+.post {
+  width: 100%;
+}
+.video {
+  border: gray;
+  border-radius: 50%;
+}
+.comment {
+  padding-top: 20px;
+  border-top: 1px solid #e5e5e5;
+}
+.like {
+  font-weight: bold;
+}
+.footer {
+  padding: 0 10px;
+}
+.home {
+  margin-bottom: 50px;
+}
+.confirm {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.cancel {
+  padding-top: 10px;
+}
+.setting {
+  padding-top: 15px;
+}
+.edit_avatar {
+  border-radius: 5px;
+  border: 1px solid #1890ff;
+  color: white;
+  padding: 5px;
+  margin: 8px 0 0 4px;
+  background-color: #1890ff;
+}
+.upload_btn_wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  cursor: pointer;
+}
+.upload_btn_wrapper input[type="file"] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
